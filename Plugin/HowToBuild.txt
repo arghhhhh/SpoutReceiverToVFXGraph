@@ -1,0 +1,4 @@
+The Makefile in this directory uses Mingw-w64 to build the plugin. See the
+following repository for further instructions:
+
+https://github.com/keijiro/UnityDX12MingwTest
